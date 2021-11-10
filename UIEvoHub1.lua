@@ -19,7 +19,7 @@ local themes = {
     LightContrast = LightContrast, 
     DarkContrast = DarkContrast,  
     TextColor = TextColor
---}
+}
 
 do
 	function utility:Create(instance, properties, children)
