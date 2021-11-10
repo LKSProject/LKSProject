@@ -19,6 +19,7 @@ local themes = {
     LightContrast = LightContrast, 
     DarkContrast = DarkContrast,  
     TextColor = TextColor
+--
 }
 
 do
