@@ -12,13 +12,13 @@ local tweeninfo = TweenInfo.new
 local utility = {}
 
 local objects = {}
---local themes = {
-    --Background = Color3.fromRGB(15,15,15), 
-    --Glow = Color3.fromRGB(214, 89, 89), 
-    --Accent = Color3.fromRGB(10, 10, 10), 
-    --LightContrast = Color3.fromRGB(20, 20, 20), 
-    --DarkContrast = Color3.fromRGB(10,10,10),  
-    --TextColor = Color3.fromRGB(255, 15, 15)
+local themes = {
+    Background = Background, 
+    Glow = Glow, 
+    Accent = Accent, 
+    LightContrast = LightContrast, 
+    DarkContrast = DarkContrast,  
+    TextColor = TextColor
 --}
 
 do
